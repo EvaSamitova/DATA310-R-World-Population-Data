@@ -10,3 +10,19 @@ R scripts for my **DATA310 coursework** analyzing **world population statistics*
    ```r
    install.packages(c("tidyverse", "ggforce", "maps"))
 
+## 📊 Visualizations
+
+### 🌍 Bar Plot
+![Bar Plot](bar_plot.png)
+
+### 📈 Scatter Plot
+![Scatter Plot](scatter_plot.png)
+
+### 📊 Facet Matrix Plot
+![Facet Matrix](facet_matrix_plot.png)
+
+### 🌎 World Map Plot
+![World Map](world_map_plot.png)
+
+### 🏝️ Pacific Map Plot
+![Pacific Map](pacific_map_plot.png)
